@@ -1,5 +1,8 @@
-#Autonomous Vehicle Management System
-##Summary of Features
+# Autonomous Vehicle Management System
+
+---
+
+## Summary of Features
 
 - Vehicle Management: Allows adding, removing, displaying, and searching for vehicles.
 - Graph Operations: Manages road networks by adding vertices (locations), connecting them, displaying the graph structure, and finding neighboring locations.
