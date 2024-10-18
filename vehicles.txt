@@ -1,0 +1,5 @@
+V001,CityA,CityB,12.5,80
+V002,CityC,CityD,8.3,90
+V003,CityB,CityE,15.2,70
+V004,CityA,CityF,7.5,95
+V005,CityD,CityG,9.1,60
