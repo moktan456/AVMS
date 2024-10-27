@@ -1,3 +1,5 @@
+# Autonomous Vehicle Management System (AVMS)
+# AVMS.py
 import numpy as np
 from heap import HEAP
 from hash import DSAHashTable
@@ -63,7 +65,7 @@ class VehicleHashTable(DSAHashTable):
     def display_all_vehicles(self):
         self.display()
 
-# Sorting Functions
+# Sorting Functions (implemented using quicksort algorithm)
 
 
 def quicksort_vehicles_by_battery(vehicles):
